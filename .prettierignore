@@ -1,0 +1,35 @@
+# 依赖目录
+node_modules
+.next
+out
+dist
+build
+
+# 锁文件
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 日志文件
+*.log
+
+# 环境变量
+.env*
+!.env.example
+
+# 构建产物
+*.tsbuildinfo
+.vercel
+
+# 公共资源
+public
+*.webp
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+
+# 配置文件
+.eslintcache
+

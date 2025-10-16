@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="300" height="360" viewBox="0 0 300 360">
+  <g fill="none" stroke="#000" stroke-width="12" stroke-linecap="square" stroke-linejoin="miter">
+    <rect x="50" y="20" width="200" height="200"/>
+    <line x1="200" y1="20" x2="200" y2="220"/>
+    <line x1="50" y1="150" x2="200" y2="150"/>
+  </g>
+  <g fill="none" stroke="#000" stroke-width="12" stroke-linecap="round">
+    <path d="M245 28 C225 55 225 88 235 112 S245 165 230 195"/>
+    <path d="M230 28 C210 55 213 88 222 112 S232 165 215 195"/>
+    <path d="M215 28 C200 55 203 88 210 112 S220 165 205 195"/>
+  </g>
+  <polygon points="220,170 240,180 220,190" fill="#000"/>
+  <text x="150" y="320" text-anchor="middle"
+        font-family="Helvetica, Arial, 'Noto Sans', sans-serif"
+        font-weight="700" font-size="36" letter-spacing="4">
+    LUXAURA
+  </text>
+</svg>
