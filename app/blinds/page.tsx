@@ -90,7 +90,7 @@ export default function BlindsPage() {
               Australia Blinds
             </h1>
             <p className="mx-auto mb-8 max-w-3xl text-xl text-neutral-200 drop-shadow-md">
-              Discover Australia's finest custom-made blinds, tailored to perfection for your
+              Discover Australia&apos;s finest custom-made blinds, tailored to perfection for your
               windows. From modern roller blinds to elegant Romans, we have the perfect solution
               for every space across Australia.
             </p>

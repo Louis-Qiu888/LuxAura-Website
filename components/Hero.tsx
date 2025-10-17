@@ -26,7 +26,7 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-10 max-w-4xl px-4 text-center sm:px-6">
         <h1 className="animate-fade-in mb-4 font-heading text-4xl font-bold text-white drop-shadow-lg sm:mb-6 sm:text-5xl md:text-6xl lg:text-7xl">
-          Australia's Premier Blinds & Curtains
+          Australia&apos;s Premier Blinds & Curtains
         </h1>
         <p
           className="animate-fade-in mb-6 text-lg text-white drop-shadow-md sm:mb-8 sm:text-xl md:text-2xl"
