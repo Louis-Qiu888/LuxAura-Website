@@ -269,4 +269,4 @@ For permission requests or licensing questions:
 
 Built with ❤️ for LuxAura | **This code is NOT open source**
 
-*Last updated: October 2025*
+_Last updated: October 2025_

@@ -7,11 +7,11 @@ import { SITE_CONFIG } from '@/lib/constants';
 import { HERO_BLUR_DATA_URL } from '@/lib/blur-data';
 
 export const metadata: Metadata = {
-  title: 'Custom Blinds - Roller, Roman, Venetian & More | LuxAura',
+  title: 'Australia Blinds - Custom Roller, Roman, Venetian & More | LuxAura',
   description:
-    "Explore LuxAura's custom-made blinds collection. Roller, Roman, Venetian, Panel Glide, Vertical & Honeycomb blinds. Free measure & quote. Made to measure in Australia.",
+    "Australia's premium custom blinds collection. Roller, Roman, Venetian, Panel Glide, Vertical & Honeycomb blinds. Made to measure in Australia. Free measure & quote. Shop Australia blinds today!",
   keywords:
-    'custom blinds, roller blinds, roman blinds, venetian blinds, panel glide blinds, vertical blinds, honeycomb blinds, cellular blinds, made to measure blinds, blockout blinds, Australian made blinds, motorised blinds',
+    'Australia blinds, custom blinds Australia, roller blinds Australia, roman blinds Australia, venetian blinds Australia, panel glide blinds, vertical blinds, honeycomb blinds Australia, cellular blinds, made to measure blinds, blockout blinds, Australian made blinds, motorised blinds Australia, luxury blinds Australia',
   alternates: {
     canonical: `${SITE_CONFIG.url}/blinds`,
   },
@@ -87,12 +87,12 @@ export default function BlindsPage() {
         <div className="relative z-10 px-4 py-20 text-center text-white">
           <div className="container-custom">
             <h1 className="mb-6 font-heading text-5xl font-bold drop-shadow-lg md:text-6xl">
-              Custom Blinds
+              Australia Blinds
             </h1>
             <p className="mx-auto mb-8 max-w-3xl text-xl text-neutral-200 drop-shadow-md">
-              Discover our comprehensive range of custom-made blinds, tailored to perfection for
-              your windows. From modern roller blinds to elegant Romans, we have the perfect
-              solution for every space.
+              Discover Australia's finest custom-made blinds, tailored to perfection for your
+              windows. From modern roller blinds to elegant Romans, we have the perfect solution
+              for every space across Australia.
             </p>
             <Link href="/quote" className="btn-primary">
               Get Free Quote
