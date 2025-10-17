@@ -54,13 +54,18 @@ export default function Navigation() {
         <div className="flex items-center justify-between gap-6 py-6 lg:py-8">
           {/* Logo */}
           <Link href="/" className="flex flex-shrink-0 items-center pr-2">
+            {/* Mobile: Text only - Responsive sizing */}
+            <span className="xs:text-xl font-heading text-lg font-bold tracking-tight text-neutral-900 sm:text-2xl lg:hidden">
+              LUXAURA
+            </span>
+            {/* Desktop: Logo image */}
             <Image
               src="/logo.svg"
               alt="LuxAura"
               width={180}
               height={180}
               priority
-              className="h-[72px] w-auto -translate-y-1 md:h-[80px] lg:h-[92px]"
+              className="hidden h-auto w-auto lg:block lg:h-[92px]"
             />
           </Link>
 
