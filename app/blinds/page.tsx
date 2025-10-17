@@ -87,12 +87,12 @@ export default function BlindsPage() {
         <div className="relative z-10 px-4 py-20 text-center text-white">
           <div className="container-custom">
             <h1 className="mb-6 font-heading text-5xl font-bold drop-shadow-lg md:text-6xl">
-              Australia Blinds
+              Custom Blinds
             </h1>
             <p className="mx-auto mb-8 max-w-3xl text-xl text-neutral-200 drop-shadow-md">
-              Discover Australia&apos;s finest custom-made blinds, tailored to perfection for your
-              windows. From modern roller blinds to elegant Romans, we have the perfect solution
-              for every space across Australia.
+              Discover our comprehensive range of custom-made blinds, tailored to perfection for
+              your windows. From modern roller blinds to elegant Romans, we have the perfect
+              solution for every space.
             </p>
             <Link href="/quote" className="btn-primary">
               Get Free Quote

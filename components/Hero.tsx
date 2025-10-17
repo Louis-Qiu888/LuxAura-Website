@@ -26,19 +26,19 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-10 max-w-4xl px-4 text-center sm:px-6">
         <h1 className="animate-fade-in mb-4 font-heading text-4xl font-bold text-white drop-shadow-lg sm:mb-6 sm:text-5xl md:text-6xl lg:text-7xl">
-          Australia&apos;s Premier Blinds & Curtains
+          Transform Your Space
         </h1>
         <p
           className="animate-fade-in mb-6 text-lg text-white drop-shadow-md sm:mb-8 sm:text-xl md:text-2xl"
           style={{ animationDelay: '0.2s' }}
         >
-          Premium Custom Blinds, Curtains & Window Treatments Across Australia
+          Premium Custom Blinds, Curtains & Window Treatments
         </p>
         <p
           className="animate-fade-in mb-8 text-base text-white/90 drop-shadow-md sm:mb-12 sm:text-lg"
           style={{ animationDelay: '0.4s' }}
         >
-          Australian Craftsmanship | Made to Measure | Free Consultation
+          Australian Craftsmanship | Tailored to Perfection | Free Consultation
         </p>
 
         <div
