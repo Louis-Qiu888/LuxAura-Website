@@ -246,8 +246,25 @@ For questions or issues, refer to:
 
 ## 📄 License
 
-This project is proprietary and confidential.
+**Copyright © 2025 LuxAura. All Rights Reserved.**
+
+This is proprietary commercial software. See the [LICENSE](./LICENSE) file for full terms.
+
+### ⚠️ Important Restrictions
+
+- ❌ **No Commercial Use** - Cannot be used for business purposes
+- ❌ **No Modification** - Cannot be changed or adapted
+- ❌ **No Distribution** - Cannot be copied or shared
+- ❌ **No Competing Business** - Cannot be used to create competing window treatment businesses
+- ✅ **View Only** - Code is visible for educational and reference purposes only
+
+### 📧 Licensing Inquiries
+
+For permission requests or licensing questions:
+
+- **Email**: service@luxaura.com.au
+- **Website**: https://luxaura.com.au
 
 ---
 
-Built with ❤️ for LuxAura
+Built with ❤️ for LuxAura | **This code is NOT open source**
