@@ -217,7 +217,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-neutral-800 pt-6 sm:pt-8">
           <div className="flex flex-col items-center justify-between text-xs text-neutral-400 sm:text-sm md:flex-row">
-            <p className="mb-4 md:mb-0">婕?{currentYear} LuxAura. All rights reserved.</p>
+            <p className="mb-4 md:mb-0">&copy; {currentYear} LuxAura. All rights reserved.</p>
             <div className="flex space-x-4 sm:space-x-6">
               <Link href="/privacy" className="transition-colors hover:text-primary">
                 Privacy Policy
