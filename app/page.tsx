@@ -23,11 +23,11 @@ const ContactSection = dynamic(() => import('@/components/ContactSection'), {
 });
 
 export const metadata: Metadata = {
-  title: 'Australia Blinds & Curtains | Premium Custom Window Treatments | LuxAura',
+  title: 'Sydney Blinds & Curtains | Custom Window Treatments | LuxAura',
   description:
-    "Australia's leading blinds and curtains specialist. Custom-made roller blinds, Roman blinds, venetian blinds & sheers. Free measure & quote. Australian quality craftsmanship with up to 5 years warranty*.",
+    "Sydney's premier blinds & curtains specialist. Custom Roman blinds, luxury curtains & motorised solutions. Free measure & quote. Australian craftsmanship with 5 years warranty*.",
   keywords:
-    'Australia blinds, blinds Australia, custom blinds Australia, curtains Australia, window treatments Australia, roller blinds, roman blinds, venetian blinds, custom curtains, sheers, motorised blinds Australia, Australian made blinds, window coverings Australia, blinds Melbourne, blinds Sydney',
+    'Sydney blinds, curtains Sydney, custom blinds Sydney, Roman blinds Sydney, motorised blinds Sydney, luxury curtains Sydney, window treatments Sydney, Sydney Eastern Suburbs blinds, North Shore curtains, Australian made blinds, custom window coverings Sydney',
   alternates: {
     canonical: SITE_CONFIG.url,
   },

@@ -7,11 +7,11 @@ import { SITE_CONFIG } from '@/lib/constants';
 import { HERO_BLUR_DATA_URL } from '@/lib/blur-data';
 
 export const metadata: Metadata = {
-  title: 'Australia Blinds - Custom Roller, Roman, Venetian & More | LuxAura',
+  title: 'Custom Blinds Sydney | Roman, Roller & Motorised | LuxAura',
   description:
-    "Australia's premium custom blinds collection. Roller, Roman, Venetian, Panel Glide, Vertical & Honeycomb blinds. Made to measure in Australia. Free measure & quote. Shop Australia blinds today!",
+    "Premium custom blinds in Sydney. Roman, Roller, Venetian & Motorised options. Made to measure with Australian quality. Free consultation & quote across Sydney suburbs.",
   keywords:
-    'Australia blinds, custom blinds Australia, roller blinds Australia, roman blinds Australia, venetian blinds Australia, panel glide blinds, vertical blinds, honeycomb blinds Australia, cellular blinds, made to measure blinds, blockout blinds, Australian made blinds, motorised blinds Australia, luxury blinds Australia',
+    'custom blinds Sydney, Roman blinds Sydney, roller blinds Sydney, motorised blinds Sydney, venetian blinds Sydney, made to measure blinds Sydney, luxury blinds Sydney, Sydney blind installation, blockout blinds Sydney, Australian made blinds',
   alternates: {
     canonical: `${SITE_CONFIG.url}/blinds`,
   },

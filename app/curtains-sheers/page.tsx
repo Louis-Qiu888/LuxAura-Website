@@ -7,11 +7,11 @@ import { SITE_CONFIG } from '@/lib/constants';
 import { HERO_BLUR_DATA_URL } from '@/lib/blur-data';
 
 export const metadata: Metadata = {
-  title: 'Custom Curtains & Sheers - S-Fold, Pinch Pleat, Eyelet | LuxAura',
+  title: 'Sydney Curtains & Sheers | Custom S-Fold & Pinch Pleat',
   description:
-    'Premium custom curtains & sheers made to measure. S-Fold, Pinch Pleat, Eyelet styles. Luxury fabrics including linen, velvet, silk. Free consultation & installation.',
+    "Luxury custom curtains in Sydney. S-Fold, Pinch Pleat & Eyelet styles. Premium Australian & imported fabrics. Free design consultation & measure across Sydney.",
   keywords:
-    'custom curtains, made to measure curtains, s-fold curtains, pinch pleat curtains, eyelet curtains, sheer curtains, blockout curtains, luxury curtains, linen curtains, velvet curtains, curtain installation, Australian curtains',
+    'Sydney curtains, custom curtains Sydney, S-Fold curtains Sydney, luxury curtains Sydney, sheer curtains Sydney, pinch pleat curtains Sydney, made to measure curtains Sydney, curtain installation Sydney, designer curtains Sydney, Australian curtain makers',
   alternates: {
     canonical: `${SITE_CONFIG.url}/curtains-sheers`,
   },

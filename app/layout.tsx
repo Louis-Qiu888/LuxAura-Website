@@ -27,8 +27,15 @@ export const metadata: Metadata = {
     "Transform your space with LuxAura's custom-made blinds, curtains, and sheers. Free measure & quote. Australian quality craftsmanship.",
   authors: [{ name: 'LuxAura' }],
   icons: {
-    icon: '/logo.svg',
-    apple: '/logo.png',
+    icon: [
+      { url: '/favicon.ico', sizes: '32x32' },
+      { url: '/logo.svg', type: 'image/svg+xml' },
+      { url: '/logo.png', sizes: '192x192', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/logo.png', sizes: '180x180', type: 'image/png' },
+    ],
+    shortcut: '/favicon.ico',
   },
   openGraph: {
     title: 'LuxAura - Premium Window Treatments',
@@ -37,6 +44,14 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_AU',
     siteName: 'LuxAura',
+    images: [
+      {
+        url: '/logo.png',
+        width: 1200,
+        height: 630,
+        alt: 'LuxAura - Premium Blinds & Curtains',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',

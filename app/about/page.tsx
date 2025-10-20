@@ -7,11 +7,11 @@ import { SITE_CONFIG } from '@/lib/constants';
 import { HERO_BLUR_DATA_URL } from '@/lib/blur-data';
 
 export const metadata: Metadata = {
-  title: 'About LuxAura - Premium Window Treatment Specialists',
+  title: 'About LuxAura | Premium Sydney Window Treatment Specialists',
   description:
-    "Discover LuxAura's story. Over a decade of experience crafting custom blinds, curtains & window treatments. Australian owned, quality craftsmanship, up to 5 years warranty*.",
+    "Sydney's trusted window treatment experts. Over a decade crafting custom blinds & curtains. Australian quality, European design. Family owned, serving all Sydney suburbs.",
   keywords:
-    'about LuxAura, Australian window treatments, custom blinds company, curtain specialists, window treatment experts, Australian made blinds, quality craftsmanship, local business',
+    'about LuxAura Sydney, Sydney window treatment specialists, custom blinds company Sydney, Australian blinds maker, luxury curtain specialists Sydney, quality craftsmanship, Sydney interior design, family owned business, Australian window treatments',
   alternates: {
     canonical: `${SITE_CONFIG.url}/about`,
   },

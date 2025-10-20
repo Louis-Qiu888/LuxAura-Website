@@ -5,11 +5,11 @@ import { generateBreadcrumbSchema } from '@/lib/breadcrumb-schema';
 import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
-  title: 'Motorisation - Smart Shading Solutions | LuxAura',
+  title: 'Motorised Blinds Sydney | Smart Home Window Automation',
   description:
-    'LuxAura Motorized System Series. Over 30 years expertise, world-class smart shading technology. Motorized curtains, roller blinds, venetian blinds, and sheer shades.',
+    "Smart motorised blinds & curtains in Sydney. Home automation, remote control & voice activated. Expert installation. Free consultation across Sydney suburbs.",
   keywords:
-    'motorised blinds, smart shading, automated curtains, motorized roller blinds, home automation, smart home, electric blinds, remote control blinds, Sydney motorisation',
+    'motorised blinds Sydney, smart blinds Sydney, automated curtains Sydney, home automation Sydney, electric blinds Sydney, remote control blinds Sydney, smart home window treatments Sydney, voice controlled blinds, motorized shades Sydney, Sydney blind automation',
   alternates: {
     canonical: `${SITE_CONFIG.url}/motorisation`,
   },

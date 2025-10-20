@@ -7,11 +7,11 @@ import { SITE_CONFIG } from '@/lib/constants';
 import { HERO_BLUR_DATA_URL } from '@/lib/blur-data';
 
 export const metadata: Metadata = {
-  title: 'Contact Us - Free Consultation & Quote | LuxAura',
+  title: 'Contact LuxAura Sydney | Free Measure & Quote - 0450 871 699',
   description:
-    'Contact LuxAura for custom blinds, curtains & window treatments. Free in-home consultation. Call 0450 871 699 or email service@luxaura.com.au. Serving Sydney.',
+    "Contact LuxAura for custom blinds & curtains in Sydney. Free in-home measure & quote. Call 0450 871 699 or book online. Serving all Sydney suburbs including Eastern Suburbs, North Shore & CBD.",
   keywords:
-    'contact LuxAura, blinds consultation, curtain quote, window treatment experts, free measure, free quote, Australian window treatments, blinds installation',
+    'contact LuxAura Sydney, Sydney blinds quote, free measure Sydney, curtain consultation Sydney, blinds installer Sydney, window treatment quote Sydney, Sydney Eastern Suburbs blinds, North Shore curtains, Inner West window treatments',
   alternates: {
     canonical: `${SITE_CONFIG.url}/contact`,
   },
